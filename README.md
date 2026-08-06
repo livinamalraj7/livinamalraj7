@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there! 👋 I'm Livin Amal Raj
 
-<!--
-**livinamalraj7/livinamalraj7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+☕ Java Developer  
+💻 Passionate about Software Development  
+🚀 Building Projects One Commit at a Time
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- ☕ Java
+- 🌿 Git & GitHub
+- 💻 VS Code
+- 🧩 Object-Oriented Programming (OOP)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Project
+🛒 NovaMart – Java-based Supermarket Management System
+
+## 🎯 Goals
+- Build real-world Java projects
+- Improve Data Structures & Algorithms
+- Contribute to Open Source
+- Secure a Software Development Internship
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/livin-amal-raj-60a834377
