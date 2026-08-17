@@ -12,7 +12,7 @@
 - 🧩 Object-Oriented Programming (OOP)
 
 ## 📌 Current Project
-🛒 NovaMart – Java-based Supermarket Management System
+🛒 CampusMart - CampusMart is a student-focused marketplace web application designed for college students to buy and sell useful academic and campus-related products.
 
 ## 🎯 Goals
 - Build real-world Java projects
